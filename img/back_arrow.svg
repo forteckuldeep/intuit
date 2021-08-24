@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="back_arrow" transform="translate(-1833 -956)">
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="32" height="32" transform="translate(1833 956)" fill="none"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="2" height="16" transform="translate(1841 972.293) rotate(-90)" fill="#fff"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="2" height="8" transform="translate(1841.414 972.707) rotate(-135)" fill="#fff"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="2" height="8" transform="translate(1840 971.293) rotate(-45)" fill="#fff"/>
+  </g>
+</svg>

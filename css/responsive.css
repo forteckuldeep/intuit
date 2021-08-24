@@ -1,0 +1,440 @@
+@media (min-width:1440px){
+    .dul-card {
+        margin-top: 192px;
+    }
+}
+@media screen and (max-width: 1440px){
+
+    header {
+        padding: 40px 8px 40px 30px;
+    }
+    .flow2 .crcle1-txt h2:last-child {
+        padding-right: 60px;
+    }
+    .card_chose_text > div {
+      min-height: auto;
+      padding-top: 0px;
+  }
+  .lgn-frm {
+      top: 215px;
+  }
+  .lgn-m {
+      bottom: 90px !important;
+  }
+  .lgn-frm form {
+      padding: 12px;
+  }
+  .wrp {
+      margin-top: 0px;
+  }
+  .lgn-frm {
+      padding: 15px;
+      top: 185px;
+  }
+  .card_chose_text > div {
+      min-height: auto;
+      padding-top: 0;
+  }
+  .form-control {
+      height: 40px;
+  }
+  .lgn-m {
+      bottom: 140px !important;
+  }
+  .lgn-frm{
+    border-color: red;
+  }
+  .login_wrapper_main.third .lgn-frm{
+    top: 260px;
+  }
+  .login_wrapper_main.third .wrp {
+    margin-top: 85px;
+}
+.flow2 #Line_32 {
+    opacity: 0.196;}
+
+
+    .content-section-2{
+        bottom: 100px;
+        left: -12px;
+    }
+    .intro .text p{font-size: 18px;}
+
+    .box {
+        padding-bottom: 0;
+    }
+    .dul-card .card-m {
+        height: 350px;
+    }
+    .box img {
+        width: 100px;
+        height: 100px;
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .brdr > p {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .media {
+        margin-top: 30px;
+    }
+    .media ul{
+        margin-bottom: 0;
+    }
+    .flow2 .crcle1-txt h2:first-child {
+        font-size: 30px;
+        line-height: 0;
+        margin-bottom: -20px;
+    }
+    .flow2 .crcle1-txt h2:last-child {
+        font-size: 30px;
+        line-height: 0;
+    }
+    .navbar .nav-link {
+        font-size: 13px !important;
+    }
+    .flow2 .flow2-crcle2 {
+        left: 49%;
+        top: 48%;
+    }
+  }
+
+  
+
+
+
+@media screen and (max-width: 1024px)
+{
+  body{
+    background-size: cover;
+    height: 149vh;
+  }
+  .filter{
+    bottom: 23%;
+  }
+  #overscroll ul{
+    left: 40%;
+    top:37%;
+
+  }
+  .Line_32{top: 499px;}
+  .filter{
+    bottom: 23%;
+  }
+  .content-section img {
+    max-width: 892px;
+}
+.flow-1{
+    background-image: url(img/nxt.jpg);
+    background-position: right;
+}
+      
+.hamburger_menu {
+    display: block;
+    top: 40px;
+}
+nav.navbar.navbar-expand-lg {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+ul.navbar-nav.ml-auto.cntr {
+    margin-left: 0 !important;
+}
+ul.navbar-nav.ml-auto.RGHT {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -40px;
+    left: -30px;
+    width: calc(100% + 40px);
+    background: #035494;
+    padding-top: 200px;
+    padding-bottom: 70px;
+    z-index: -1;
+    color: #fff;
+    display: block;
+    text-align: center;
+    visibility: hidden;
+    transform: translateY(-100%);
+    transition: all 600ms cubic-bezier(0.77, 0, 0.175, 1) 0s;
+}
+ul.navbar-nav.ml-auto.RGHT.active{
+    visibility: visible;
+    transform: translateY(0);
+}
+ul.navbar-nav.ml-auto.RGHT a.nav-link:before {
+    content: '';
+    position: absolute;
+    border-top: 1px dashed #05406f;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+ul.navbar-nav.ml-auto.RGHT a.nav-link {
+    padding: 20px;
+    position: relative;
+}
+div#navbarNav {
+    min-height: 100vh;
+}
+ #overscroll ul {
+    left: 50%;
+    top: 50%;
+}
+  .Line_32{top: 499px;}
+  .filter{
+    bottom: 23%;
+  }
+  .content-section img {
+    max-width: 892px;
+}
+.flow-1{
+    background-image: url(img/nxt.jpg);
+    background-position: right;
+}
+}
+
+
+@media screen and (max-width:768px){
+    .box {margin-left: 1px;}
+    .lgn-frm{top: 479px;}
+    .lgn-m{top: 118px;  }
+    .Line_32 {
+        margin-top: 27%;
+    }
+    .intro .content-section img {
+        max-width: 584px;
+    }
+    
+    .intro .en{display: none;}
+    .sv{display: block;}
+
+
+    .intro .text p {text-align: center;}
+    .intro .sht{bottom: 10px;}
+
+    .intro button.navbar-toggler.collapsed:focus {
+    border: none!important;
+    outline: none!important;
+}
+
+
+    .intro .Line_32 {position: static;}
+    .intro .content-section-2{position: static; 
+            float: none;
+            margin-top: 11px;
+        }
+        header ul.navbar-nav {
+            flex-direction: row;
+        }
+        header ul.navbar-nav li {
+            margin-right: 10px;
+        }
+        div#navbarNav{
+            display: block !important;
+        }
+  
+        .navbar ul li a img {
+            width: 15px;
+        }
+        li.nav-item img.close_new {
+            position: fixed;
+            right: 40px;
+            top: 40px;
+        }
+        .dul-card {
+            margin-top: 230px;
+        }
+        
+
+}
+
+@media screen and (max-width:480px){
+  .Line_32 {
+    top: 37%;
+}
+.dul-card{
+    flex-direction: column;
+  }
+
+.portfolio{height: auto;}
+.icon img {
+    display: none;
+}
+
+.bnr-bg {
+    height: auto;
+    margin-top: 0;
+}
+    .lgn-frm {
+    max-width: 371px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.lgn-m {
+    top: 0;
+}
+    .bnr-bg-text h3 {
+    font-size: 22px;
+    margin-top: 17px;
+}
+
+    .lgn-m{transform: rotate(0deg);
+        right: 0px;
+    }
+    body{background-repeat: repeat-y;}
+
+    .wrp{display: none;}
+
+   
+    .bnr-bg h3 {
+        font-size: 22px;
+        margin-top: 17px;
+    }
+    .flow2 .crcle1-txt h2:first-child {
+        font-size: 28px;
+        font-weight: 600;
+        color: #34E8FF;
+        padding-left: 20px;
+    }
+    .flow2 .crcle1-txt h2:last-child {
+        font-size: 28px;
+        font-weight: 600;
+        color: #34E8FF;
+        margin-left: auto;
+        padding-right: 10px;
+    }
+    .flow2 .flow2-crcle1 {
+        width: 90vw;
+        height: 40vh;
+        left: 49%;
+    }
+    .flow2 .flow2-crcle2 {
+        width: 90vw;
+        height: 40vh;
+    }
+    .flow2 div#navbarNav {
+        background: #136eac;
+        margin-top: 20px;
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .flow2 div#navbarNav li.nav-item {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .flow2 .Line_32 {
+        margin-top: 54%;
+        border: 0px;
+        opacity: 0.8;
+        margin-top: 195px;
+        z-index: -1;  
+    }
+    .intro .content-section img {
+        max-width: 379px;
+    }
+    
+    
+    .intro .explore a{padding: 16px 55px;}
+    header {
+        padding: 20px;
+    }
+    .navbar .nav-link {
+        font-size: 8px !important;
+    }
+    header{
+        padding: 20px;
+        padding-right: 0;
+    }
+    .portfolio {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .portfolio .container-fluid {
+        padding: 0;
+    }
+    .dul-card {
+        overflow-x: scroll;
+        flex-direction: row;
+        justify-content: flex-start;
+        position: relative;
+        z-index: 999;
+    }
+    .dul-card >img {
+        flex: 0 0 97%;
+        max-width: 97%;
+        padding: 0 15px;
+        height: auto !important;
+        padding-left: 50px;
+    }
+
+    .dul-card > div{
+        flex: 0 0 80%;
+        max-width: 80%;
+        padding-right: 15px;
+    }
+    .media ul li {
+        font-size: 18px;
+    }
+    .card_preview1 .icon img {
+        display: block;
+    }
+    .footer_bottom_new {
+        padding: 0 15px;
+    }
+    li.nav-item img.close_new {
+        display: none;
+    }
+    .flow2 .flow2-crcle2 {
+        width: 90vw;
+        height: 40vh;
+        left: 46%;
+        top: 49%;
+        margin-left: 20px;
+    }
+    
+
+}
+
+
+@media screen and (max-width: 320px){
+    .flow2 .flow2-crcle1 {
+      width: 90vw;
+      height: 40vh;
+  }
+  .flow2 .flow2-crcle2 {
+      width: 90vw;
+      height: 40vh;
+      left: 46%;
+      top: 49%;
+  }
+      
+  .sv svg {
+    max-width: 295px;
+}
+
+
+.text p {
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.text p { font-size: 17px;}
+   .flow-1 .navbar { margin-bottom: 65px;}
+  
+.sht {bottom: 4px;}
+    
+.sv svg{max-width: 338px;}
+    .text p {font-size: 24px;}
+
+
+.explore a{padding: 20px 40px;}
+  }
+
